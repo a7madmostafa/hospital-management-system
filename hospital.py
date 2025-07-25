@@ -2,6 +2,7 @@
 import csv
 from datetime import datetime
 
+
 class Person:
     def __init__(self, person_id, name, age, gender):
         self.person_id = person_id
